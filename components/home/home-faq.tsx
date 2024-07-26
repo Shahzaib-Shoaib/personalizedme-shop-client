@@ -11,7 +11,7 @@ export default function HomeFAQ({ FAQs }: { FAQs: FAQ[] }) {
         Frequently Asked Questions
       </h2>
       {FAQs.map((item) => (
-        <FAQTab q={item.q} a={item.a}></FAQTab>
+        <FAQTab key={item.q} q={item.q} a={item.a}></FAQTab>
       ))}
     </div>
   );
