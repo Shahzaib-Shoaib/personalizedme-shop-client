@@ -17,11 +17,35 @@ importers:
       '@syncfusion/ej2-base':
         specifier: ^26.2.5
         version: 26.2.5
+      '@syncfusion/ej2-buttons':
+        specifier: ^26.2.5
+        version: 26.2.5
+      '@syncfusion/ej2-documenteditor':
+        specifier: ^26.2.5
+        version: 26.2.5
+      '@syncfusion/ej2-dropdowns':
+        specifier: ^26.2.5
+        version: 26.2.5
+      '@syncfusion/ej2-inputs':
+        specifier: ^26.2.5
+        version: 26.2.5
+      '@syncfusion/ej2-lists':
+        specifier: ^26.2.5
+        version: 26.2.5
+      '@syncfusion/ej2-navigations':
+        specifier: ^26.2.5
+        version: 26.2.5
       '@syncfusion/ej2-pdf-export':
         specifier: ^26.1.35
         version: 26.2.5
+      '@syncfusion/ej2-popups':
+        specifier: ^26.2.5
+        version: 26.2.5
       '@syncfusion/ej2-react-documenteditor':
         specifier: ^26.1.40
+        version: 26.2.5
+      '@syncfusion/ej2-splitbuttons':
+        specifier: ^26.2.5
         version: 26.2.5
       clsx:
         specifier: ^2.1.0
